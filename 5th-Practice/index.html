@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5th-Practice</title>
+</head>
+<body>
+    <h1>Find Larger Number:</h1>
+
+    <form onsubmit="getNumber(); return false;">
+
+        <!-- First Number -->
+
+        <label for="num1">Enter a 1st-number</label>
+        <input type="number" name="num1" id="num1"><br>
+
+        <!-- Second Number -->
+
+         <label for="num2">Enter a 2nd-number</label>
+        <input type="number" name="num2" id="num2"><br>
+        <button type="submit">Check</button>
+    </form>
+    <hr>
+
+        <!-- Result -->
+
+    <label for="result">Result :</label>
+    <input type="text" name="result" id="result" readonly>
+
+    <script>
+function getNumber() {
+    let userName = String(prompt('Enter your name'));
+    let firstNumber = Number(document.getElementById('num1').value);
+    let secondNumber = Number(document.getElementById('num2').value);
+      console.log(userName);
+      console.log('firstNumber is ' + firstNumber );
+      console.log('secondNumber is ' + secondNumber );
+
+    if (firstNumber > secondNumber) {
+        document.getElementById('result').value = `${firstNumber} is larger.`;
+          console.log(document.getElementById('result').value);
+    }
+    else if (secondNumber > firstNumber) {
+        document.getElementById('result').value = `${secondNumber} is larger.`;
+          console.log(document.getElementById('result').value);
+    }
+    else {
+        document.getElementById('result').value = `${firstNumber} and ${secondNumber} are equal.`;
+          console.log(document.getElementById('result').value);
+    }
+};
+    </script>
+</body>
+</html>
