@@ -1,14 +1,14 @@
-🔢 Find Larger Number – JavaScript Practice Project :
 
+<h1>🔢 Find Larger Number – JavaScript Practice Project :</h1>
 _____________________________________________________________________________________________
+<h1>📄 Description :</h1>
 
-📄 Description :
 
 A beginner-friendly JavaScript project that compares two numbers and displays the larger value using DOM manipulation and conditional logic.
 
 _____________________________________________________________________________________________
+<h1>📌 Project Overview :</h1>
 
-📌 Project Overview :
 
 Find Larger Number is a simple interactive web application built using HTML and JavaScript.
 The application allows users to enter two numbers and determines which number is larger — or if both numbers are equal.
@@ -24,8 +24,8 @@ This project is part of fundamental JavaScript practice, focusing on:
 • Basic Form Handling
 
 _____________________________________________________________________________________________
+<h1>🚀 Features :</h1>
 
-🚀 Features :
 
 • User-friendly number input fields
 
@@ -40,8 +40,8 @@ ________________________________________________________________________________
 • Console logging for debugging practice
 
 _____________________________________________________________________________________________
+<h1>🛠️ Technologies Used :</h1>
 
-🛠️ Technologies Used :
 
 • HTML5 – Structure of the web page
 
@@ -52,8 +52,8 @@ ________________________________________________________________________________
 • Template Literals
 
 _____________________________________________________________________________________________
+<h1>📂 Project Structure :</h1>
 
-📂 Project Structure :
 
 5th-Practice/
 │── index.html
@@ -61,8 +61,8 @@ ________________________________________________________________________________
 The entire application logic is written inside the <script> tag within the HTML file.
 
 _____________________________________________________________________________________________
+<h1>⚙️ How It Works :</h1>
 
-⚙️ How It Works :
 
 1. User enters two numbers.
 
@@ -79,8 +79,8 @@ ________________________________________________________________________________
 4.The result is displayed inside a readonly input field.
 
 _____________________________________________________________________________________________
+<h1>💡 Learning Concepts :</h1>
 
-💡 Learning Concepts :
 
 This project helps in understanding:
 
@@ -95,8 +95,8 @@ This project helps in understanding:
 • Writing clean and readable JavaScript logic
 
 _____________________________________________________________________________________________
+<h1>🖥️ How to Run the Project :</h1>
 
-🖥️ How to Run the Project :
 
 1.Clone the repository
 
@@ -109,8 +109,8 @@ git clone <your-repository-link>
 No additional setup required.
 
 _____________________________________________________________________________________________
+<h1>📈 Future Improvements :</h1>
 
-📈 Future Improvements :
 
 • Add input validation (empty input check)
 
@@ -123,8 +123,8 @@ ________________________________________________________________________________
 • Add responsive design
 
 _____________________________________________________________________________________________
+<h1>👨‍💻 Author :</h1>
 
-👨‍💻 Author :
 
 Mian Haseeb Nasir
 
