@@ -1,12 +1,12 @@
 
 <h1>🔢 Find Larger Number – JavaScript Practice Project :</h1>
-_____________________________________________________________________________________________
+
 <h1>📄 Description :</h1>
 
 
 A beginner-friendly JavaScript project that compares two numbers and displays the larger value using DOM manipulation and conditional logic.
 
-_____________________________________________________________________________________________
+
 <h1>📌 Project Overview :</h1>
 
 
@@ -23,7 +23,7 @@ This project is part of fundamental JavaScript practice, focusing on:
 
 • Basic Form Handling
 
-_____________________________________________________________________________________________
+
 <h1>🚀 Features :</h1>
 
 
@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 • Console logging for debugging practice
 
-_____________________________________________________________________________________________
+
 <h1>🛠️ Technologies Used :</h1>
 
 
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 • Template Literals
 
-_____________________________________________________________________________________________
+
 <h1>📂 Project Structure :</h1>
 
 
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 The entire application logic is written inside the <script> tag within the HTML file.
 
-_____________________________________________________________________________________________
+
 <h1>⚙️ How It Works :</h1>
 
 
@@ -78,7 +78,7 @@ ________________________________________________________________________________
 
 4.The result is displayed inside a readonly input field.
 
-_____________________________________________________________________________________________
+
 <h1>💡 Learning Concepts :</h1>
 
 
@@ -94,7 +94,7 @@ This project helps in understanding:
 
 • Writing clean and readable JavaScript logic
 
-_____________________________________________________________________________________________
+
 <h1>🖥️ How to Run the Project :</h1>
 
 
@@ -108,7 +108,7 @@ git clone <your-repository-link>
 
 No additional setup required.
 
-_____________________________________________________________________________________________
+
 <h1>📈 Future Improvements :</h1>
 
 
@@ -122,7 +122,7 @@ ________________________________________________________________________________
 
 • Add responsive design
 
-_____________________________________________________________________________________________
+
 <h1>👨‍💻 Author :</h1>
 
 
