@@ -1,14 +1,14 @@
-🔢 Find Larger Number – JavaScript Practice Project
+🔢 Find Larger Number – JavaScript Practice Project :
 
 _____________________________________________________________________________________________
 
-📄 Description
+📄 Description :
 
 A beginner-friendly JavaScript project that compares two numbers and displays the larger value using DOM manipulation and conditional logic.
 
 _____________________________________________________________________________________________
 
-📌 Project Overview
+📌 Project Overview :
 
 Find Larger Number is a simple interactive web application built using HTML and JavaScript.
 The application allows users to enter two numbers and determines which number is larger — or if both numbers are equal.
@@ -25,7 +25,7 @@ This project is part of fundamental JavaScript practice, focusing on:
 
 _____________________________________________________________________________________________
 
-🚀 Features
+🚀 Features :
 
 • User-friendly number input fields
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 
 • HTML5 – Structure of the web page
 
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-📂 Project Structure
+📂 Project Structure :
 
 5th-Practice/
 │── index.html
@@ -62,7 +62,7 @@ The entire application logic is written inside the <script> tag within the HTML 
 
 _____________________________________________________________________________________________
 
-⚙️ How It Works
+⚙️ How It Works :
 
 1. User enters two numbers.
 
@@ -80,7 +80,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-💡 Learning Concepts
+💡 Learning Concepts :
 
 This project helps in understanding:
 
@@ -96,7 +96,7 @@ This project helps in understanding:
 
 _____________________________________________________________________________________________
 
-🖥️ How to Run the Project
+🖥️ How to Run the Project :
 
 1.Clone the repository
 
@@ -110,7 +110,7 @@ No additional setup required.
 
 _____________________________________________________________________________________________
 
-📈 Future Improvements
+📈 Future Improvements :
 
 • Add input validation (empty input check)
 
@@ -124,7 +124,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________
 
-👨‍💻 Author
+👨‍💻 Author :
 
 Mian Haseeb Nasir
 
